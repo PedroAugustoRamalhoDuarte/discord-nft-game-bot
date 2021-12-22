@@ -1,0 +1,14 @@
+{
+  "name": "discord-nft-game-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for tracker nft profit",
+  "main": "index.js",
+  "repository": "https://github.com/PedroAugustoRamalhoDuarte/discord-nft-game-bot.git",
+  "author": "PedroAugustoRamalhoDuarte <pedro_aduarte@aluno.unb.br>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
+}
